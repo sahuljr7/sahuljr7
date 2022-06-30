@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sahulkumarparida@gmail.com**
 
-- ⚡ Fun fact **One of my favorite things to do is explore new things**
+- ⚡ Fun fact **I want to learn every language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
