@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahul Kumar Parida</h1>
 <h3 align="center">"Passionate about solving real-world problems through technology"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahuljr7&label=Profile%20views&color=0e75b6&style=flat" alt="sahuljr7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahuljr7" alt="sahuljr7" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sahul_22_jr" target="blank"><img src="https://img.shields.io/twitter/follow/sahul_22_jr?logo=twitter&style=for-the-badge" alt="sahul_22_jr" /></a> </p>
 
 - 📫 How to reach me **sahulkumarparida@gmail.com**
