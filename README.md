@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahul Kumar Parida</h1>
 <h3 align="center">"Passionate about solving real-world problems through technology"</h3>
 
-<p align="left"> <a href="https://twitter.com/sahul_22_jr" target="blank"><img src="https://img.shields.io/twitter/follow/sahul_22_jr?logo=twitter&style=for-the-badge" alt="sahul_22_jr" /></a> </p>
-
 - 📫 How to reach me **sahulkumarparida@gmail.com**
 
 - ⚡ Fun fact **I want to learn every language**
