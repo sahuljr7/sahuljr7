@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahul Kumar Parida</h1>
 <h3 align="center">"Passionate about solving real-world problems through technology"</h3>
 
-- 📫 How to reach me **sahulkumarparida@gmail.com**
-
 - ⚡ Fun fact **I want to learn every language**
 
 <h3 align="left">Connect with me:</h3>
